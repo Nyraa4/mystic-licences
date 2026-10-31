@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updated": 1793489719,
+  "updated": 1793489731,
   "licenses": {
     "a3d5c546ab772321bfa3f46a1a5da4332d3a996540c677927890dd107c275ddc": {
-      "active": false,
+      "active": true,
       "expires": 1794698674
     }
   }
